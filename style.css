@@ -22,3 +22,11 @@
   .description{
     white-space: pre-wrap;
   }
+
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
