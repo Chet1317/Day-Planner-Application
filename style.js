@@ -1,5 +1,5 @@
-var dayTime = moment(new Date());
-document.getElementById("currentDay").innerHTML = dayTime
+
+
 
 for(var i=9; i<=17; i++){
     document.querySelector(".container-planner").innerHTML += 
